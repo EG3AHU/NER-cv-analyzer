@@ -21,7 +21,6 @@ Developed as an academic project for the Management Information Systems (MIS) de
 * **pdfplumber** (PDF Parsing)
 
 ## 🚀 Live Demo
-*(You can place your Streamlit Cloud link here later)*
-
+https://ner-cv-analyzer-h2cr3gfvawhsffaxwgfesl.streamlit.app/
 ## 💡 Academic Context
 This project serves as a proof-of-concept for automating recruitment workflows. By highlighting the limitations of pre-trained generic NER models in specialized domains (like IT/Networking), it lays the groundwork for developing custom, domain-specific NER pipelines for HR systems.
